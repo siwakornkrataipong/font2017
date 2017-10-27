@@ -1,8 +1,11 @@
 
 @font-face {
   font-family: 'Quark-Light';
-  src: url('Quark-Light.eot?#iefix') format('embedded-opentype'),  url('Quark-Light.otf')  format('opentype'),
-	     url('Quark-Light.woff') format('woff'), url('Quark-Light.ttf')  format('truetype'), url('Quark-Light.svg#Quark-Light') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ade9c93e/Quark-light/Quark-Light.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ade9c93e/Quark-light/Quark-Light.otf')  format('opentype'),
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ade9c93e/Quark-light/Quark-Light.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ade9c93e/Quark-light/Quark-Light.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ade9c93e/Quark-light/Quark-Light.svg#Quark-Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
