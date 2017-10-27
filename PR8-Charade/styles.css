@@ -1,7 +1,10 @@
 
 @font-face {
   font-family: 'PR8Charade';
-  src: url('PR8Charade.eot?#iefix') format('embedded-opentype'),  url('PR8Charade.woff') format('woff'), url('PR8Charade.ttf')  format('truetype'), url('PR8Charade.svg#PR8Charade') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/12732e50/PR8-Charade/PR8Charade.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/12732e50/PR8-Charade/PR8Charade.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/12732e50/PR8-Charade/PR8Charade.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/12732e50/PR8-Charade/PR8Charade.svg#PR8Charade') format('svg');
   font-weight: normal;
   font-style: normal;
 }
