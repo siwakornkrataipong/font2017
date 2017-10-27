@@ -1,8 +1,11 @@
 
 @font-face {
   font-family: 'Quark-Bold';
-  src: url('Quark-Bold.eot?#iefix') format('embedded-opentype'),  url('Quark-Bold.otf')  format('opentype'),
-	     url('Quark-Bold.woff') format('woff'), url('Quark-Bold.ttf')  format('truetype'), url('Quark-Bold.svg#Quark-Bold') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ddf9fe4a/Quark-bold/Quark-Bold.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ddf9fe4a/Quark-bold/Quark-Bold.otf')  format('opentype'),
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ddf9fe4a/Quark-bold/Quark-Bold.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ddf9fe4a/Quark-bold/Quark-Bold.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/ddf9fe4a/Quark-bold/Quark-Bold.svg#Quark-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
