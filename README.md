@@ -1,7 +1,7 @@
 # font2017
 
 ```html
-  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/87d37455/Cloud-bold/styles.css">
+ <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/87d37455/Cloud-bold/styles.css">
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/1d83bf19/Cloud-Light/styles.css">
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/1d83bf19/Kanit-regular/styles.css">
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/1d83bf19/Kanit-semibold/styles.css">
@@ -17,5 +17,7 @@
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/a6782c19/Thai-Sans-Lite/styles.css">
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/0d8a32b4/texgyreadventor-bold/styles.css">
  <link rel="stylesheet" href="https://cdn.rawgit.com/siwakornkrataipong/font2017/0d8a32b4/texgyreadventor-regular/styles.css">
+ 
+ see font "http://jsfiddle.net/d5qrmb7s/"
 ```
     
