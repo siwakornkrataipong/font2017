@@ -1,7 +1,10 @@
 
 @font-face {
   font-family: 'DSEPatPong';
-  src: url('DSEPatPong.eot?#iefix') format('embedded-opentype'),  url('DSEPatPong.woff') format('woff'), url('DSEPatPong.ttf')  format('truetype'), url('DSEPatPong.svg#DSEPatPong') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/57b760c3/DSE-Patpong-regular/DSEPatPong.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/57b760c3/DSE-Patpong-regular/DSEPatPong.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/57b760c3/DSE-Patpong-regular/DSEPatPong.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/57b760c3/DSE-Patpong-regular/DSEPatPong.svg#DSEPatPong') format('svg');
   font-weight: normal;
   font-style: normal;
 }
