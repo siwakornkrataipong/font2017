@@ -1,7 +1,10 @@
 
 @font-face {
   font-family: 'Kanit-Medium';
-  src: url('Kanit-Medium.eot?#iefix') format('embedded-opentype'),  url('Kanit-Medium.woff') format('woff'), url('Kanit-Medium.ttf')  format('truetype'), url('Kanit-Medium.svg#Kanit-Medium') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/eb93d083/Kanit-medium/Kanit-Medium.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/eb93d083/Kanit-medium/Kanit-Medium.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/eb93d083/Kanit-medium/Kanit-Medium.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/eb93d083/Kanit-medium/Kanit-Medium.svg#Kanit-Medium') format('svg');
   font-weight: normal;
   font-style: normal;
 }
