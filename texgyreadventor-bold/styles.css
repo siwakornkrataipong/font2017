@@ -1,8 +1,11 @@
 
 @font-face {
   font-family: 'TeXGyreAdventor-Bold';
-  src: url('TeXGyreAdventor-Bold.eot?#iefix') format('embedded-opentype'),  url('TeXGyreAdventor-Bold.otf')  format('opentype'),
-	     url('TeXGyreAdventor-Bold.woff') format('woff'), url('TeXGyreAdventor-Bold.ttf')  format('truetype'), url('TeXGyreAdventor-Bold.svg#TeXGyreAdventor-Bold') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/89679035/texgyreadventor-bold/TeXGyreAdventor-Bold.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/89679035/texgyreadventor-bold/TeXGyreAdventor-Bold.otf')  format('opentype'),
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/89679035/texgyreadventor-bold/TeXGyreAdventor-Bold.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/89679035/texgyreadventor-bold/TeXGyreAdventor-Bold.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/89679035/texgyreadventor-bold/TeXGyreAdventor-Bold.svg#TeXGyreAdventor-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
