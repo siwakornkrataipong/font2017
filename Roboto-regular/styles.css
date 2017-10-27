@@ -1,7 +1,10 @@
 
 @font-face {
   font-family: 'Roboto-Regular';
-  src: url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),  url('Roboto-Regular.woff') format('woff'), url('Roboto-Regular.ttf')  format('truetype'), url('Roboto-Regular.svg#Roboto-Regular') format('svg');
+  src: url('https://cdn.rawgit.com/siwakornkrataipong/font2017/430fce5b/Roboto-regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),  
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/430fce5b/Roboto-regular/Roboto-Regular.woff') format('woff'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/430fce5b/Roboto-regular/Roboto-Regular.ttf')  format('truetype'), 
+       url('https://cdn.rawgit.com/siwakornkrataipong/font2017/430fce5b/Roboto-regular/Roboto-Regular.svg#Roboto-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
