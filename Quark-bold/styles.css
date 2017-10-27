@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Quark-Bold';
+  src: url('Quark-Bold.eot?#iefix') format('embedded-opentype'),  url('Quark-Bold.otf')  format('opentype'),
+	     url('Quark-Bold.woff') format('woff'), url('Quark-Bold.ttf')  format('truetype'), url('Quark-Bold.svg#Quark-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

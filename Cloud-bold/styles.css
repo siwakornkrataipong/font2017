@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Cloud-Bold';
+  src: url('Cloud-Bold.eot?#iefix') format('embedded-opentype'),  url('Cloud-Bold.otf')  format('opentype'),
+	     url('Cloud-Bold.woff') format('woff'), url('Cloud-Bold.ttf')  format('truetype'), url('Cloud-Bold.svg#Cloud-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

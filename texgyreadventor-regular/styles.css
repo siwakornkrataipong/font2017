@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TeXGyreAdventor-Regular';
+  src: url('TeXGyreAdventor-Regular.eot?#iefix') format('embedded-opentype'),  url('TeXGyreAdventor-Regular.otf')  format('opentype'),
+	     url('TeXGyreAdventor-Regular.woff') format('woff'), url('TeXGyreAdventor-Regular.ttf')  format('truetype'), url('TeXGyreAdventor-Regular.svg#TeXGyreAdventor-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
